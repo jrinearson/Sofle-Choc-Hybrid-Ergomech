@@ -137,7 +137,7 @@
 &kp TAB  &trans  &kp LA(V)  &kp LA(C)  &kp LS(LC(R))  &kpkp LS(LC(N)) LS(LC(T))  &trans  &trans    &kp UP_ARROW  &trans     &trans   &kp F12
 &trans   &trans  &trans     &trans     &trans         &kp LC(ENTER)              &trans  &kp LEFT  &kp DOWN      &kp RIGHT  &trans   &trans
 &trans   &trans  &trans     &trans     &kp LS(LC(V))  &kp RG(PERIOD)             &trans  &trans    &trans        &trans     &trans   &trans
-&trans   &trans  &trans     &trans     &trans         &trans                     &trans  &trans    &trans        &trans     &to 2
+&trans   &trans  &trans     &trans     &kp BACKSPACE  &trans                     &trans  &trans    &trans        &trans     &to 2
                                                                                  &trans  &trans    &trans        &trans     &trans
             >;
 
